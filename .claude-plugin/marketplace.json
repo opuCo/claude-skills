@@ -1,0 +1,17 @@
+{
+  "name": "meine-skills",
+  "owner": {
+    "name": "Dein Name"
+  },
+  "plugins": [
+    {
+      "name": "meine-skills",
+      "description": "Meine eigenen Skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/wochenbericht"
+      ]
+    }
+  ]
+}
