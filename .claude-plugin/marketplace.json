@@ -10,7 +10,7 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/wochenbericht"
+        "./.claude/skills/wochenbericht"
       ]
     }
   ]

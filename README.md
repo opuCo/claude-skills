@@ -10,7 +10,7 @@ Sammel-Repo für eigene Claude Skills. Alle Skills stecken im Plugin `meine-skil
 
 ## Neuen Skill anlegen
 
-1. Lege einen Ordner `skills/<name>/` mit einer Datei `SKILL.md` an. Sie beginnt so:
+1. Lege einen Ordner `.claude/skills/<name>/` mit einer Datei `SKILL.md` an. Sie beginnt so:
 
    ```markdown
    ---
@@ -23,7 +23,7 @@ Sammel-Repo für eigene Claude Skills. Alle Skills stecken im Plugin `meine-skil
    Anweisungen für Claude.
    ```
 
-2. Trage den Ordner in `.claude-plugin/marketplace.json` unter `skills` ein, zum Beispiel `"./skills/<name>"`. Ohne diesen Eintrag wird der Skill nicht geladen.
+2. Trage den Ordner in `.claude-plugin/marketplace.json` unter `skills` ein, zum Beispiel `"./.claude/skills/<name>"`. Ohne diesen Eintrag wird der Skill nicht geladen.
 3. Ergänze die Tabelle oben.
 4. Committe und pushe.
 
