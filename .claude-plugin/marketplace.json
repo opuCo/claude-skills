@@ -11,7 +11,8 @@
       "strict": false,
       "skills": [
         "./.claude/skills/wochenbericht",
-        "./.claude/skills/apple-design"
+        "./.claude/skills/apple-design",
+        "./.claude/skills/skills-update-check"
       ]
     }
   ]
