@@ -7,6 +7,7 @@ Sammel-Repo für eigene Claude Skills. Alle Skills stecken im Plugin `meine-skil
 | Skill | Wofür |
 |---|---|
 | `wochenbericht` | Macht aus Stichpunkten einen einseitigen Wochenbericht |
+| `apple-design` | Apple-Designprinzipien für flüssige, gestenbasierte Web-Oberflächen. Übernommen von [emilkowalski/skills](https://github.com/emilkowalski/skills) (MIT-Lizenz, Text im Skill-Ordner) |
 
 ## Neuen Skill anlegen
 
