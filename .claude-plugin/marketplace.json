@@ -10,7 +10,8 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./.claude/skills/wochenbericht"
+        "./.claude/skills/wochenbericht",
+        "./.claude/skills/apple-design"
       ]
     }
   ]
