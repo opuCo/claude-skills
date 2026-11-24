@@ -12,7 +12,8 @@
       "skills": [
         "./.claude/skills/wochenbericht",
         "./.claude/skills/apple-design",
-        "./.claude/skills/skills-update-check"
+        "./.claude/skills/skills-update-check",
+        "./.claude/skills/unslopUI"
       ]
     }
   ]
