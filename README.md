@@ -8,6 +8,7 @@ Sammel-Repo für eigene Claude Skills. Alle Skills stecken im Plugin `meine-skil
 |---|---|
 | `wochenbericht` | Macht aus Stichpunkten einen einseitigen Wochenbericht |
 | `apple-design` | Apple-Designprinzipien für flüssige, gestenbasierte Web-Oberflächen. Übernommen von [emilkowalski/skills](https://github.com/emilkowalski/skills) (MIT-Lizenz, Text im Skill-Ordner) |
+| `unslop` (Ordner `unslopUI`) | Macht KI-typische Oberflächen zu gestalteten: Abstände, Farbe, Icons, Texte, Schrift, Layout, Bilder, Bewegung. Übernommen von [heydamir/unslop](https://github.com/heydamir/unslop) (CC BY 4.0, Text im Skill-Ordner) |
 | `skills-update-check` | Prüft, ob übernommene Skills im Original Updates haben. Auf Zuruf, nicht automatisch |
 
 ## Neuen Skill anlegen
